@@ -1,0 +1,20 @@
+{
+
+  "Visibility": "VISIBLE",
+
+  "Title": "New Update",
+
+  "Description": "Update 30.0 version အောက်က Website ကနေသွားပြီးဒေါင်းလိုက်ပါ။
+  ",
+  "MainTextButton": " Direct Download ",
+
+  "Cancelable": "false",
+  "CancelButtonText": "Direct Link",
+
+  "DirectLink" : "https://www.mediafire.com/file/f3uqd7h0n9uerce/Zkar+MM_30.0.apk/file",
+
+  "DownloadLink": "https://www.mediafire.com/file/f3uqd7h0n9uerce/Zkar+MM_30.0.apk/file",
+
+  "Version": "5.0"
+
+}
